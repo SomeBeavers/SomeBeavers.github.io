@@ -1,0 +1,30 @@
+# Site settings
+title: SomeBeavers Blog
+email: your-email@example.com
+description: >- # this means to ignore newlines until "baseurl:"
+  A simple blog about development, technology, and other interesting topics.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://somebeavers.github.io" # the base hostname & protocol for your site
+twitter_username: your_twitter
+github_username: SomeBeavers
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+
+# Exclude from processing
+exclude:
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/

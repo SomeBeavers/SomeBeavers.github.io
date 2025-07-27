@@ -1,11 +1,11 @@
 # Site settings
-title: SomeBeavers Blog
-email: your-email@example.com
+title: Lily QA Blog
+email: lilia.shamsutdinova@jetbrains.com
 description: >- # this means to ignore newlines until "baseurl:"
-  A simple blog about development, technology, and other interesting topics.
+  A simple blog about quality assurance, technology, and other interesting topics.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://somebeavers.github.io" # the base hostname & protocol for your site
-twitter_username: your_twitter
+twitter_username: lilyjetqa
 github_username: SomeBeavers
 
 # Build settings

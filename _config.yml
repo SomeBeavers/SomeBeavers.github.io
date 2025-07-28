@@ -2,7 +2,7 @@
 title: Lily QA Blog
 email: lilia.shamsutdinova@jetbrains.com
 description: >- # this means to ignore newlines until "baseurl:"
-  A simple blog about quality assurance, technology, and other interesting topics.
+  A blog about quality, leadership and testing processes.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://somebeavers.github.io" # the base hostname & protocol for your site
 twitter_username: lilyjetqa

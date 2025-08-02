@@ -1,10 +1,9 @@
 ---
-
 layout: post
 title:  "Onboarding a QA Engineer: Part 1 – Onboarding Plan"
 date:   2025-08-01
 categories: general
--------------------
+---
 
 # Onboarding a QA Engineer: Part 1 – Onboarding Plan
 

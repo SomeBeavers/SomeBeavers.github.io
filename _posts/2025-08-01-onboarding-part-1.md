@@ -6,7 +6,7 @@ date:   2025-08-01
 categories: general
 -------------------
 
-# Onboarding QA Engineer
+# Onboarding a QA Engineer: Part 1 – Onboarding Plan
 
 *Help your new QA deliver meaningful value in their very first weeks.*
 

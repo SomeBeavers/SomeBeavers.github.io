@@ -6,6 +6,8 @@ date:   2025-08-01
 categories: general
 -------------------
 
+# Onboarding QA Engineer
+
 *Help your new QA deliver meaningful value in their very first weeks.*
 
 You can't overestimate the importance of those first 3–6 months when a new person joins your team. It's exciting and, at the same time, a bit terrifying — for both the newcomer and the team. Will they succeed? Will they fit in? Will they find everything they need to get started?
